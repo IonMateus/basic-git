@@ -10,6 +10,19 @@ Git is often used to update GitHub projects from the machine to the server by sp
 
 ### 💻 How to write a Git command?
 
+1. Write on **Visual Studio Code**.
+   
+   lorem
+1. Write on **Command Prompt**.
+   
+   lorem
+
+[^1]: Msdsd
+dfdgdfgdfgdg
+
+[^2]: Mfdgdg
+dgdfsgdfg
+
 ### ⌨️ Commands
 
 ### 📖 Sources
