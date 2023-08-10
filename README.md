@@ -77,6 +77,9 @@ git pull
 ```
 Creates a connection to the GitHub server and changes your code to match your project.
 
+
+Now you can use the basics Git commands!
+
 ### 📖 Sources
 * [Wikipédia](https://en.wikipedia.org/wiki/Git)
 * [Git](https://git-scm.com/)
