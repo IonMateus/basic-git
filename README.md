@@ -27,28 +27,57 @@ Git is often used to update GitHub projects from the machine to the server by sp
 <img width="500" src="https://raw.githubusercontent.com/IonMateus/basic-git/main/ReadmeImages/cmd.png">
 </p>
 
-###  Create the repository
-* The repositoty needs to be empty, without any file, even the README.md. Just don't select the checkbox 'Add a README file' when you create the repository.
-* When it's created, use the three comands 
 
 ### ⌨️ Commands
 
-* For the first time:
+**Create the repository**
+* The repositoty needs to be empty, without any file, even the README.md. Just don't select the checkbox 'Add a README file' when you create the repository. It's possible to do it in a full repository, but we'll not focus on that at the moment.
+
+* When it's created, use these commands on terminal:
 ```
-git remote add origin https://github.com/YourGitHubUsername/repositoryName.git
+git init
 ```
 ```
-git branch -M main
+git add .
 ```
 ```
-git push -u origin main
+git commit -m "a message"
 ```
+* `git init` will create a file named as '.git' on your project folder.
+* `git add .` add your changes to your next commit.
+* `git commit -m 'a message'` Captures a snapshot of your project. Now you can push it to your GitHub repository.
 
 
+**Then write the three commands that appear on your repository. They look like this:**
+
+* `git remote add origin https://github.com/YourGitHubUsername/repositoryName.git`
+* `git branch -M main`
+* `git push -u origin main`
+This creates a connection with your GitHub project and send the commit to your repository. You just need to use these three commands once.
+You already has your repository up to date! 🎉
+
+**To update again:**
+```
+git add .
+```
+```
+git commit -m "message"
+```
+```
+git push origin main
+```
+Just this!
+
+**Your repository was changed by a collaborator, how to update your *LOCAL CODE***
+```
+git fetch
+```
+```
+git pull
+```
+Creates a connection to the GitHub server and changes your code to match your project.
 
 ### 📖 Sources
 * [Wikipédia](https://en.wikipedia.org/wiki/Git)
 * [Git](https://git-scm.com/)
 
-
-Written by [Ion Mateus](https://github.com/IonMateus)
