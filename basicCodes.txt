@@ -1,0 +1,18 @@
+git init
+git status
+git add .
+git commit -m "Message goes here!" 
+
+git remote add origin https://github.com/IonMateus/projectName.git
+git branch -M main
+git push -u origin main
+
+git push origin main
+
+git fetch
+git pull
+
+
+
+
+by Ion Mateus (https://github.com/IonMateus/basic-git)
