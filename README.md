@@ -1,7 +1,7 @@
 
 [<img src="https://git-scm.com/images/logo@2x.png">](https://git-scm.com/)
 
-<img src="https://img.shields.io/badge/GitHub-Git-red">  <img src="https://img.shields.io/badge/2023-Basic-red">
+<img src="https://img.shields.io/badge/GitHub-Git-red">  <img src="https://img.shields.io/badge/2023-Basic-red">  <img src="https://img.shields.io/badge/document-English-red">
 
 
 ### 🤔 What's Git?
