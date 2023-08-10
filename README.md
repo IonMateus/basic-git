@@ -12,16 +12,17 @@ Git is often used to update GitHub projects from the machine to the server by sp
 
 1. Write on **Visual Studio Code**.
    
-   lorem
+   * Open the VSCode
+   * Go to the `toolbar --> Terminal --> New Terminal`  (or just `Ctrl + Shift + '`)
+   * Something like `PS C:\Users\you>` will apear on terminal. Use the command `cd [path to project folder]`, like `cd C:\Users\you\Projects`
+   * Write the commands!
+   <img width="600" src="https://raw.githubusercontent.com/IonMateus/basic-git/main/ReadmeImages/newTerminal.png">
+   
 1. Write on **Command Prompt**.
    
-   lorem
-
-[^1]: Msdsd
-dfdgdfgdfgdg
-
-[^2]: Mfdgdg
-dgdfsgdfg
+   * Open the Command Prompt. You can open it by `Window Icon + R` and write cmd. Or search 'Command Prompt' on Window search bar.
+   * Something like `C:\Users\you>` will apear on terminal. Use the command `cd [path to project folder]`, like `cd C:\Users\you\Projects`
+   *  Write the commands!
 
 ### ⌨️ Commands
 
