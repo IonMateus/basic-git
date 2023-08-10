@@ -11,8 +11,3 @@ git push origin main
 
 git fetch
 git pull
-
-
-
-
-by Ion Mateus (https://github.com/IonMateus/basic-git)
